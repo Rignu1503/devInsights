@@ -9,7 +9,7 @@ Si una implementación no cumple con lo que promete el contrato de la clase padr
 ---
 
 ## ❌ Ejemplo Incorrecto
-Un `Airplane` hereda de `Vehicle` pero lanza una excepción en `move()`, rompiendo el contrato que promete que todo vehículo se puede mover.
+Un `Airplane` hereda de `Vehicle` pero lanza una excepción en `move()`, rompiendo el contrato que promete que todo vehículo se puede mover por el suelo.
 
 Archivos en: `incorrect/`
 
