@@ -19,13 +19,13 @@ SOLID es un acrónimo de cinco principios que ayudan a escribir **código más l
 
 ## 📂 Estructura del repositorio
 
-solid-examples/
-├── S/ # Single Responsibility Principle
-├── O/ # Open/Closed Principle
-├── L/ # Liskov Substitution Principle
-├── I/ # Interface Segregation Principle
-├── D/ # Dependency Inversion Principle
-└── README.md # Este archivo
+solid-examples/  
+├── S/ # Single Responsibility Principle  
+├── O/ # Open/Closed Principle  
+├── L/ # Liskov Substitution Principle  
+├── I/ # Interface Segregation Principle  
+├── D/ # Dependency Inversion Principle  
+└── README.md # Este archivo  
 
 
 Cada carpeta contiene:
