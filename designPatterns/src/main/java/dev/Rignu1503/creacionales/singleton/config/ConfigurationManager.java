@@ -1,4 +1,4 @@
-package dev.Rignu1503.creacionales.singleton;
+package dev.Rignu1503.creacionales.singleton.config;
 
 
 import java.util.HashMap;

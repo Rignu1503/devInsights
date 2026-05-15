@@ -1,6 +1,8 @@
 package dev.Rignu1503.creacionales.singleton;
 
-public class SingletonDemo {
+import dev.Rignu1503.creacionales.singleton.config.ConfigurationManager;
+
+public class Main {
     public static void main(String[] args) {
 
         // Obtener instancia desde diferentes partes del código
